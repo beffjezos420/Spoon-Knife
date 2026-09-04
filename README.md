@@ -9,3 +9,5 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 > **Note:** This is a practice repository. Feel free to experiment, break things, and learn how Git and GitHub work together.
+>
+> **Housekeeping:** Please keep the repository tidy by cleaning up any test branches and files after use.
