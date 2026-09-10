@@ -11,6 +11,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 > **Note:** This is a practice repository. Feel free to experiment, break things, and learn how Git and GitHub work together.
 >
 > **Housekeeping:** Please keep the repository tidy by cleaning up any test branches and files after use.
+>
+> **Usage:** Open `index.html` in any web browser to view the site locally.
 
 ## Contributing
 
