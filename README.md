@@ -11,3 +11,14 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 > **Note:** This is a practice repository. Feel free to experiment, break things, and learn how Git and GitHub work together.
 >
 > **Housekeeping:** Please keep the repository tidy by cleaning up any test branches and files after use.
+
+## Contributing
+
+Contributions are welcome! This is a practice repository, so feel free to experiment and learn. Here's how you can contribute:
+
+1. **Fork** this repository.
+2. **Create a branch** for your changes.
+3. **Make your changes** and commit them with clear, descriptive messages.
+4. **Submit a Pull Request** to the original repository.
+
+Please keep your pull requests focused and avoid making unrelated changes. For any questions, check out GitHub's [forking guide](http://guides.github.com/overviews/forking/).
