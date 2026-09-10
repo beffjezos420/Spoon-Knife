@@ -13,6 +13,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 > **Housekeeping:** Please keep the repository tidy by cleaning up any test branches and files after use.
 >
 > **Usage:** Open `index.html` in any web browser to view the site locally.
+>
+> **Local development:** No build tools or servers are required. Simply open the files directly in your browser. For a more realistic setup, serve the project locally with any static file server (e.g., `python3 -m http.server` or `npx serve`).
 
 ## Contributing
 
